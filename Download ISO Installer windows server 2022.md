@@ -2,25 +2,37 @@
 
 2. lalu selanjutnya langkah-langkah instalasi:
 
-   1. Buka VirtualBox dan masuk ke menu "Mesin - Baru" ![1](D:\Charisma\kuliah\SMT 5\SAS\uts\1.PNG)
+   1. Buka VirtualBox dan masuk ke menu "Mesin - Baru" !
+      ![1](https://user-images.githubusercontent.com/93067446/143719287-9f081b6b-30e5-426c-a73d-595a0df61fd5.PNG)
 
-   2. Masukkan nama mesin dan tipe OS yang digunakan![2](D:\Charisma\kuliah\SMT 5\SAS\uts\2.PNG)
 
-   3. Tentukan ram, lalu buat disk dan tentukan apa tipenya![3](D:\Charisma\kuliah\SMT 5\SAS\uts\3.PNG)
+   2. Masukkan nama mesin dan tipe OS yang digunakan!
+      ![2](https://user-images.githubusercontent.com/93067446/143719291-f0b5dc59-bfda-468f-9911-57520b1a935b.PNG)
 
-      ![5](D:\Charisma\kuliah\SMT 5\SAS\uts\5.PNG)
 
-      ![6](D:\Charisma\kuliah\SMT 5\SAS\uts\6.PNG)
+   3. Tentukan ram, lalu buat disk dan tentukan apa tipenya!
+      ![3](https://user-images.githubusercontent.com/93067446/143719299-5828d104-cf9a-4d90-8962-ad7908aad9f8.PNG)
 
-   4. Masuk ke menu "Mesin - Pengaturan" dan pilih bagian "Network" lalu ubah ke "Adaptor Ter-bridge"![7](D:\Charisma\kuliah\SMT 5\SAS\uts\7.PNG)
+      ![4](https://user-images.githubusercontent.com/93067446/143719306-b4e8cc87-95be-4f0a-8a94-a3f7cea38dd7.PNG)
 
-   5. Klik "Tampilkan" lalu pilih ISO yang telah kita download diawal.![8](D:\Charisma\kuliah\SMT 5\SAS\uts\8.PNG)
+      ![5](https://user-images.githubusercontent.com/93067446/143719315-2e98a680-4ad0-4088-aae3-19fef7336563.PNG)
+  
+      ![6](https://user-images.githubusercontent.com/93067446/143719323-d79d39aa-672b-4078-8217-fa6220355cab.PNG)
 
-      ![9](D:\Charisma\kuliah\SMT 5\SAS\uts\9.PNG)
 
-      Berhubung terjadi eror dan saya tidak tau kenapa bisa terjadi eror ini maka untuk step-step selanjutnya hanya ada catatan saja dan tidak ada bukti ss. mohon maaf, saya sudah mengerjakan semampu saya.
+   4. Masuk ke menu "Mesin - Pengaturan" dan pilih bagian "Network" lalu ubah ke "Adaptor Ter-bridge"!
+      ![7](https://user-images.githubusercontent.com/93067446/143719325-528d0da5-9939-457d-aa79-3aa726cdd674.PNG)
 
-      ![10](D:\Charisma\kuliah\SMT 5\SAS\uts\10.PNG)
+   5. Klik "Tampilkan" lalu pilih ISO yang telah kita download diawal.
+      ![8](https://user-images.githubusercontent.com/93067446/143719329-e1de29f2-19fc-41e7-a2b3-e3e8e9ebb97b.PNG)
+
+      ![9](https://user-images.githubusercontent.com/93067446/143719334-6792c76e-8b3f-461b-8c5a-d9dcd2e4dc83.PNG)
+
+
+      Berhubung terjadi eror di VirtualBox saya dan saya tidak tau kenapa bisa terjadi eror ini. Maka untuk step-step selanjutnya hanya ada catatan saja dan tidak ada bukti ss. mohon maaf, saya sudah mengerjakan semampu saya.
+
+      ![10](https://user-images.githubusercontent.com/93067446/143719339-2c3422a9-579f-408d-9f5a-033f394fdf60.PNG)
+
 
    6. Klik "Mulai" dan instalasi Windows Server 2022 akan dimuat
 
@@ -38,5 +50,5 @@
 
    13. Ulangi langkah ke-11
 
-   14.  Jalankan "winver" untuk memvalidasi edisi Windows Server yang diinstal
+   14. Jalankan "winver" untuk memvalidasi edisi Windows Server yang diinstal
 
